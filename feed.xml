@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>olf&#x27;s Computer Zoo</title>
-    <link href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/feed.xml" rel="self" />
-    <link href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview" />
-    <updated>2018-11-29T22:14:59+01:00</updated>
+    <link href="https://olfp.github.io/computer-zoo/feed.xml" rel="self" />
+    <link href="https://olfp.github.io/computer-zoo" />
+    <updated>2018-11-29T22:45:23+01:00</updated>
     <author>
         <name>Olaf Püschel</name>
     </author>
-    <id>file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview</id>
+    <id>https://olfp.github.io/computer-zoo</id>
 
     <entry>
         <title>Miscellaneous</title>
         <author>
             <name>Olaf Püschel</name>
         </author>
-        <link href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/miscellaneous.html"/>
-        <id>file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/miscellaneous.html</id>
+        <link href="https://olfp.github.io/computer-zoo/miscellaneous.html"/>
+        <id>https://olfp.github.io/computer-zoo/miscellaneous.html</id>
             <category term="misc"/>
 
         <updated>2018-11-29T22:00:03+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/teletype-detail.jpeg" alt="" />
+                        <img src="https://olfp.github.io/computer-zoo/media/posts/7/teletype-detail.jpeg" alt="" />
                     As no one sponsors a heated storehouse for me, I have to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/teletype-detail.jpeg" alt="" />
+                    <img src="https://olfp.github.io/computer-zoo/media/posts/7/teletype-detail.jpeg" alt="" />
                 <div class="indent">
 <div class="bbody" align="">As no one sponsors a heated storehouse for me, I have to cram everything in my flat. Unfortunately this leads to "storing" the not so interesting computers under the desks.</div>
 <div class="bbody" align=""> </div>
@@ -59,16 +59,16 @@
 <div class="illu" align=""> </div>
 <div class="illu" align="">
 <div class="gallery"   >
-<figure class="gallery__item"><a href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/gallery/diskpack.jpeg" ><img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/gallery/diskpack-thumbnail.jpeg" alt="" width="240" height="240"></a>
+<figure class="gallery__item"><a href="https://olfp.github.io/computer-zoo/media/posts/7/gallery/diskpack.jpeg" ><img src="https://olfp.github.io/computer-zoo/media/posts/7/gallery/diskpack-thumbnail.jpeg" alt="" width="240" height="240"></a>
 <figcaption class="gallery-description">DEC Diskpack 500MB</figcaption>
 </figure>
-<figure class="gallery__item"><a href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/gallery/nc100.jpeg" ><img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/gallery/nc100-thumbnail.jpeg" alt="" width="240" height="240"></a>
+<figure class="gallery__item"><a href="https://olfp.github.io/computer-zoo/media/posts/7/gallery/nc100.jpeg" ><img src="https://olfp.github.io/computer-zoo/media/posts/7/gallery/nc100-thumbnail.jpeg" alt="" width="240" height="240"></a>
 <figcaption class="gallery-description">Amstrad NC100 Notepad</figcaption>
 </figure>
-<figure class="gallery__item"><a href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/gallery/newton.jpeg" ><img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/gallery/newton-thumbnail.jpeg" alt="" width="240" height="240"></a>
+<figure class="gallery__item"><a href="https://olfp.github.io/computer-zoo/media/posts/7/gallery/newton.jpeg" ><img src="https://olfp.github.io/computer-zoo/media/posts/7/gallery/newton-thumbnail.jpeg" alt="" width="240" height="240"></a>
 <figcaption class="gallery-description">Siemens Newton</figcaption>
 </figure>
-<figure class="gallery__item"><a href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/gallery/teletype.jpeg" ><img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/7/gallery/teletype-thumbnail.jpeg" alt="" width="240" height="240"></a>
+<figure class="gallery__item"><a href="https://olfp.github.io/computer-zoo/media/posts/7/gallery/teletype.jpeg" ><img src="https://olfp.github.io/computer-zoo/media/posts/7/gallery/teletype-thumbnail.jpeg" alt="" width="240" height="240"></a>
 <figcaption class="gallery-description">DEC LA-36 Teletype</figcaption>
 </figure>
 </div>
@@ -92,8 +92,8 @@
         <author>
             <name>Olaf Püschel</name>
         </author>
-        <link href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/apple-mac.html"/>
-        <id>file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/apple-mac.html</id>
+        <link href="https://olfp.github.io/computer-zoo/apple-mac.html"/>
+        <id>https://olfp.github.io/computer-zoo/apple-mac.html</id>
             <category term="mac"/>
             <category term="apple"/>
             <category term="68k"/>
@@ -101,13 +101,13 @@
         <updated>2018-11-29T21:23:49+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/6/mac-fron-detail.jpeg" alt="" />
+                        <img src="https://olfp.github.io/computer-zoo/media/posts/6/mac-fron-detail.jpeg" alt="" />
                     Apple Mac 128k Hey, there is a handle to throw it away!who throws&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/6/mac-fron-detail.jpeg" alt="" />
+                    <img src="https://olfp.github.io/computer-zoo/media/posts/6/mac-fron-detail.jpeg" alt="" />
                 <div class="para">
 <h2 class="title">Apple Mac 128k</h2>
 <div class="indent"> </div>
@@ -126,7 +126,7 @@ This Mac has been upgraded over time, so its decorated with a 512k label, but in
 <div class="illu" align=""><a href="images/mac-front.jpeg"><img src="images/s-mac-front.jpeg" border="0"></a>
 <div class="capt" lang="en">The 9" screen (1.bit per pixel, so black or white) with its 512x348 pixel is just sufficient to display te menu bar and one "big" window, in which you can work. But you can enjoy different fonts and can paint and draw.
 <p> </p>
-<img class="post__image--right" src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/6/mac-front.jpeg" alt="Mac 128k" width="785" height="523">My Mac like most running with MacOS 6.7. That fits on one 800k disk together with MacWrite and MacDraw, and with a full Megabyte RAM working is quit comfortable. Data is stored on the second - external - floppy disk drive. Such luxury was untinkable when the system was shipped. Then it had one internal 400k disk (single sided, 3.5") and 128(!) kilobyte(!) memory. That way you spend one thiry of your time swapping disk. The previous owner changed the floppy drive, bought a second one and upgraded the ROM for supporting the double sided floppy disk drives and wrestled with the soldering iron to add more RAM.</div>
+<img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/6/mac-front.jpeg" alt="Mac 128k" width="785" height="523">My Mac like most running with MacOS 6.7. That fits on one 800k disk together with MacWrite and MacDraw, and with a full Megabyte RAM working is quit comfortable. Data is stored on the second - external - floppy disk drive. Such luxury was untinkable when the system was shipped. Then it had one internal 400k disk (single sided, 3.5") and 128(!) kilobyte(!) memory. That way you spend one thiry of your time swapping disk. The previous owner changed the floppy drive, bought a second one and upgraded the ROM for supporting the double sided floppy disk drives and wrestled with the soldering iron to add more RAM.</div>
 </div>
 <div class="indent"> </div>
 </div>
@@ -149,7 +149,7 @@ With them it does everything. Printing, modem, network ... and there's no other 
 <h2 class="title">Powerbook 180 </h2>
 <div class="para">
 <h3 class="title"><a name=""></a>On the Road again...</h3>
-<div class="illu" align=""><a href="images/pb180.jpeg"><img src="images/s-pb180.jpeg" border="0"><img class="post__image--right" src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/6/pb180.jpeg" alt="Powerbook 180" width="900" height="675"></a> ... take your Powerbook with you. And while it carries the Power in its name, there is no PowerPC inside but an good old MC68030 with 33MHz. With around 6.5 pounds it still is in the weight range for notebooks, allright, at the upper limit.</div>
+<div class="illu" align=""><a href="images/pb180.jpeg"><img src="images/s-pb180.jpeg" border="0"><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/6/pb180.jpeg" alt="Powerbook 180" width="900" height="675"></a> ... take your Powerbook with you. And while it carries the Power in its name, there is no PowerPC inside but an good old MC68030 with 33MHz. With around 6.5 pounds it still is in the weight range for notebooks, allright, at the upper limit.</div>
 </div>
 <div class="para">
 <h2 class="title"><a name=""></a>The ball rolls!</h2>
@@ -159,7 +159,7 @@ With them it does everything. Printing, modem, network ... and there's no other 
 </div>
 <div class="para">
 <h3 class="title"><a name=""></a>Plugging Games</h3>
-<div class="illu" align="left"><a href="images/pb180-if.jpeg"><img class="post__image--right" src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/6/pb180-if.jpeg" alt="Powerbook connectors" width="900" height="358"><img src="images/s-pb180-if.jpeg" border="0"></a>In extensibility the Powerbook shows its a real Apple. Difficult to exotic. There is an internal slot for a modem, which I own, but somehow it's not working. Otherwise the are the usual suspects: ADB for mouse and keyboard, an exotic port for an external display and two serial ports for printer and modem. No infrared, no PCMCIA and regretably no Ethernet. But there is a SCSI interface, with an strange and space saving HDI format. For data exchange Apple threw in a floppy disk drive - of course with motorised eject a its suits an Apple.</div>
+<div class="illu" align="left"><a href="images/pb180-if.jpeg"><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/6/pb180-if.jpeg" alt="Powerbook connectors" width="900" height="358"><img src="images/s-pb180-if.jpeg" border="0"></a>In extensibility the Powerbook shows its a real Apple. Difficult to exotic. There is an internal slot for a modem, which I own, but somehow it's not working. Otherwise the are the usual suspects: ADB for mouse and keyboard, an exotic port for an external display and two serial ports for printer and modem. No infrared, no PCMCIA and regretably no Ethernet. But there is a SCSI interface, with an strange and space saving HDI format. For data exchange Apple threw in a floppy disk drive - of course with motorised eject a its suits an Apple.</div>
 <div class="indent"> </div>
 </div>
 <div class="para">
@@ -178,8 +178,8 @@ With them it does everything. Printing, modem, network ... and there's no other 
         <author>
             <name>Olaf Püschel</name>
         </author>
-        <link href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/dec-multia.html"/>
-        <id>file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/dec-multia.html</id>
+        <link href="https://olfp.github.io/computer-zoo/dec-multia.html"/>
+        <id>https://olfp.github.io/computer-zoo/dec-multia.html</id>
             <category term="risc"/>
             <category term="dec"/>
             <category term="alpha"/>
@@ -187,13 +187,13 @@ With them it does everything. Printing, modem, network ... and there's no other 
         <updated>2018-11-29T22:11:40+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/5/multia-detail.jpeg" alt="" />
+                        <img src="https://olfp.github.io/computer-zoo/media/posts/5/multia-detail.jpeg" alt="" />
                     Alpha GenerationThe Multia is a relativly modern and fast machine. With a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/5/multia-detail.jpeg" alt="" />
+                    <img src="https://olfp.github.io/computer-zoo/media/posts/5/multia-detail.jpeg" alt="" />
                 <div class="para">
 <h2 class="title">Alpha Generation</h2>
 <div class="indent">
@@ -206,7 +206,7 @@ With them it does everything. Printing, modem, network ... and there's no other 
 <div class="para">
 <h3 class="title"><a name=""></a>But thats the ultimate personal workstation!</h3>
 <div class="indent">
-<div class="bbody" align=""><img class="post__image--right" src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/5/multia.jpeg" alt="DEC Multia" width="862" height="623">Right. And this is the smallest and slowest version. There are machines in the same enclosure with 266 MHz processors and larger disks (you can mount a frame for a 3.5" disk instead of the PCI slot)
+<div class="bbody" align=""><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/5/multia.jpeg" alt="DEC Multia" width="862" height="623">Right. And this is the smallest and slowest version. There are machines in the same enclosure with 266 MHz processors and larger disks (you can mount a frame for a 3.5" disk instead of the PCI slot)
 <p> </p>
 Unfortunately the machine basically flopped. Targeted as a client system with Windows-NT (yes Windows once ran on Alphas as wekk as on MIPS and PowerPC), the concept was refused by the market. The corresponding Pentium line didn't gather a larger following.</div>
 </div>
@@ -231,8 +231,8 @@ Unfortunately the machine basically flopped. Targeted as a client system with Wi
         <author>
             <name>Olaf Püschel</name>
         </author>
-        <link href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/decstation.html"/>
-        <id>file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/decstation.html</id>
+        <link href="https://olfp.github.io/computer-zoo/decstation.html"/>
+        <id>https://olfp.github.io/computer-zoo/decstation.html</id>
             <category term="risc"/>
             <category term="mips"/>
             <category term="dec"/>
@@ -240,13 +240,13 @@ Unfortunately the machine basically flopped. Targeted as a client system with Wi
         <updated>2018-11-29T22:07:19+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/3/decstation-detail.jpeg" alt="" />
+                        <img src="https://olfp.github.io/computer-zoo/media/posts/3/decstation-detail.jpeg" alt="" />
                     DEC? Thats the VMS people, right?Right. VMS on VAXen has been DECs&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/3/decstation-detail.jpeg" alt="" />
+                    <img src="https://olfp.github.io/computer-zoo/media/posts/3/decstation-detail.jpeg" alt="" />
                 <div class="para">
 <h2 class="title">DEC? Thats the VMS people, right?</h2>
 <div class="indent">
@@ -258,7 +258,7 @@ Unfortunately the machine basically flopped. Targeted as a client system with Wi
 <div class="illu" align=""><a href="images/decstation.jpeg"><img src="images/s-decstation.jpeg" border="0"></a></div>
 <div class="indent">
 <div class="bbody" align="">My DECstation 5000/120 is from the middle of the line. In means of time - no R2000 anymore and not yet a R4000 - as well as in means of power - there is the personal DECstation and the 200 line models. With the R3000 processor running at 20MHz and supported by a R3010 numerical processor the machine delivers abount 30 MIPS. This is much compared to the Sun-3 line, about as much as the SPARCstation-1 and not much compared with modern workstations with their several hundred MIPS.
-<p> <img class="post__image--right" src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/3/decstation.jpeg" alt="DECstation 5000/120" width="900" height="640"></p>
+<p> <img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/3/decstation.jpeg" alt="DECstation 5000/120" width="900" height="640"></p>
 The machine is built into a metal enclosure about 19x15x2 inch. Besides the power supply there is a logic board with three TURBOchannel slots running at 12.5 MHz inside. Then we have the CPU module (upgradable to 33MHz or R4000), two bays for 3.5" disks and one externaly accessible 5.25" bay. One TURBOchannel slot is occupied by the PMAGB-B, displaying his 1280x1024 pixel in 256 colours at 72Hz on a 19" colour screen.
 <p> </p>
 In addition there are two serial ports, the SCSI-2 port and Ethernet AUI. Workstations attaching the console to a serial port if no keyboard is connected is not uncommon. But when the serial ports are labeled <em>2</em> and <em>3</em> and the terminal has to be attached to the one marked <em>3</em> this definitively is a DEC special.</div>
@@ -279,7 +279,7 @@ In addition there are two serial ports, the SCSI-2 port and Ethernet AUI. Workst
 </div>
 <div class="indent">
 <div class="bbody" align="">The mouse differs from other mice too. It is mechanical buthas no ball. Instead two rubber disks are mounted in a way that each has onepoint on the diameter resting on the pad.</div>
-<div class="bbody" align=""><img class="post__image--right" src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/3/decmouse-top.jpeg" alt="DEC Puck Mouse" width="150" height="179"><img class="post__image--right" src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/3/decmouse-bottom.jpeg" alt="DEC Puck Mouse/Bottom" width="150" height="180"></div>
+<div class="bbody" align=""><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/3/decmouse-top.jpeg" alt="DEC Puck Mouse" width="150" height="179"><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/3/decmouse-bottom.jpeg" alt="DEC Puck Mouse/Bottom" width="150" height="180"></div>
 <div class="bbody" align="">So the motion component along the tangent to this point turns the disk. The disks are aranges in a manner that one captures teh X- and the other the Y-component of the movement. In addition the mouse is circular.</div>
 </div>
 </div>
@@ -298,8 +298,8 @@ In addition there are two serial ports, the SCSI-2 port and Ethernet AUI. Workst
         <author>
             <name>Olaf Püschel</name>
         </author>
-        <link href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/dec-vaxstations.html"/>
-        <id>file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/dec-vaxstations.html</id>
+        <link href="https://olfp.github.io/computer-zoo/dec-vaxstations.html"/>
+        <id>https://olfp.github.io/computer-zoo/dec-vaxstations.html</id>
             <category term="vax"/>
             <category term="dec"/>
             <category term="cisc"/>
@@ -307,18 +307,18 @@ In addition there are two serial ports, the SCSI-2 port and Ethernet AUI. Workst
         <updated>2018-11-29T21:38:30+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/2/vax-term-detail.jpeg" alt="" />
+                        <img src="https://olfp.github.io/computer-zoo/media/posts/2/vax-term-detail.jpeg" alt="" />
                     DEC? Thats the VMS people, right?Exactly. The VAX ist the peak of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/2/vax-term-detail.jpeg" alt="" />
+                    <img src="https://olfp.github.io/computer-zoo/media/posts/2/vax-term-detail.jpeg" alt="" />
                 <div class="para">
 <h2 class="title">DEC? Thats the VMS people, right?</h2>
 <div class="indent">
 <div class="bbody" align="">Exactly. The VAX ist the peak of the CISC architecture, and runs happily with VMS. The VAXen family is widespread, from desktop machines to multi-rack monsters. The MicroVAX ist a later model and belongs - even at sight - to the smaler VAXen.While the CPUs of the earlier models - like the calssic VAX 11/780 filled multiple boards, the VAX architecture has been cramed on a chip in a CMOS implementation for the MicroVAXen. The chip called CVAX runs at 10MHz in the 3300 and as 1kB(!) cache attached. The memory is luxuriosly equipped with 4MB - VAX machine code is extremely dense.
-<p><img class="post__image--right" src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/2/vax-term.jpeg" alt="MicroVAX 330" width="317" height="592"> </p>
+<p><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/2/vax-term.jpeg" alt="MicroVAX 330" width="317" height="592"> </p>
 To be able to realize the CVAX chip with the then contemporary technology, DEC utilized a trick: The CPU implements only the most common instructions of the VAX instruction set - the rest triggers a trap, and is implemented in software. </div>
 </div>
 <div class="para">
@@ -343,7 +343,7 @@ The front panel can be covered with a protective door of semi-transparent perspe
 <div class="indent">
 <div class="bbody" align="">Top right you see the CompacTape drive. These things are the grand-grandfathers of the modern DLT (Digital Linear Tape) drives. Full 90MB are packed on the tapes. The Media looks exactly like DLT tapes, so the mechanical specs did'nt change.</div>
 <div class="bbody" align=""> </div>
-<div class="bbody" align=""><img class="post__image--center" src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/2/compactape.jpeg" alt="CompacTape" width="268" height="162"></div>
+<div class="bbody" align=""><img class="post__image--center" src="https://olfp.github.io/computer-zoo/media/posts/2/compactape.jpeg" alt="CompacTape" width="268" height="162"></div>
 </div>
 <div class="para">
 <div class="illu" align="left"><a href="images/compactape.jpeg"><img src="images/s-compactape.jpeg" border="0"></a>The tape cartridge technologie is inventive. To save the room the empty reel would take up, only the would up tape is in the cartride. In front is an eyelet for tearing the tape out and threads it into the mechanics. Since this is afully complicated, you ougth to obey the right sequence when changing tapes: Press button, wait for LED to go dark, open lock, remove cartride, insert new one, close lock, press button, wait for LED to light steady, done.</div>
@@ -378,8 +378,8 @@ It even has a TCP/IP Stack, which is configured <em>different</em>, but meanwhil
         <author>
             <name>Olaf Püschel</name>
         </author>
-        <link href="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/sun-microsystem-3-series.html"/>
-        <id>file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/sun-microsystem-3-series.html</id>
+        <link href="https://olfp.github.io/computer-zoo/sun-microsystem-3-series.html"/>
+        <id>https://olfp.github.io/computer-zoo/sun-microsystem-3-series.html</id>
             <category term="sun"/>
             <category term="cisc"/>
             <category term="68k"/>
@@ -387,17 +387,17 @@ It even has a TCP/IP Stack, which is configured <em>different</em>, but meanwhil
         <updated>2018-11-29T20:46:01+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/1/sun3-60-datail.jpeg" alt="Sun Logo" />
+                        <img src="https://olfp.github.io/computer-zoo/media/posts/1/sun3-60-datail.jpeg" alt="Sun Logo" />
                     Sun Microsystem Model 3/50 Sometime I will give a BSD (Open or&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/1/sun3-60-datail.jpeg" alt="Sun Logo" />
+                    <img src="https://olfp.github.io/computer-zoo/media/posts/1/sun3-60-datail.jpeg" alt="Sun Logo" />
                 <div class="para">
 <div class="indent">
 <h2 class="bbody">Sun Microsystem Model 3/50</h2>
-<p class="post__entry__intro"><img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/1/sun3-50.jpeg" alt="Sun 3/50" width="650" height="488"></p>
+<p class="post__entry__intro"><img src="https://olfp.github.io/computer-zoo/media/posts/1/sun3-50.jpeg" alt="Sun 3/50" width="650" height="488"></p>
 <div class="bbody" align=""> </div>
 <div class="bbody" align="">This Sun 3/50 was my first historical workstation and my first real workstation at all (Linux PCs don't count). The matching black and white monitor is on top, in front lie the type-3 keyboard and the mouse with optical pad (about letter size). No chance to get away with less then nine square feet of desk space.
 <p> </p>
@@ -434,7 +434,7 @@ The central unit is a big flat box (about 19x15x2 inches) with the Sun Logo as i
 <div class="title"><a name="sun3-60"></a>Sun Microsystem Model 3/60</div>
 <div class="illu" align=""><a href="images/sun3-60.jpeg"><img src="images/s-sun3-60.jpeg" border="0"></a>
 <h2 class="capt" lang="en">The Sun 3/60, with the shoebox aside</h2>
-<p><img src="file:///Users/olf/Documents/Publii/sites/olfs-computer-zoo/preview/media/posts/1/sun3-60.jpeg" alt="" width="804" height="566"></p>
+<p><img src="https://olfp.github.io/computer-zoo/media/posts/1/sun3-60.jpeg" alt="" width="804" height="566"></p>
 </div>
 <div class="indent">
 <div class="bbody" align=""> </div>
