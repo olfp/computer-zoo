@@ -3,7 +3,7 @@
     <title>olf&#x27;s Computer Zoo</title>
     <link href="https://olfp.github.io/computer-zoo/feed.xml" rel="self" />
     <link href="https://olfp.github.io/computer-zoo" />
-    <updated>2018-11-29T22:48:15+01:00</updated>
+    <updated>2018-11-29T22:49:47+01:00</updated>
     <author>
         <name>Olaf Püschel</name>
     </author>
@@ -304,7 +304,7 @@ In addition there are two serial ports, the SCSI-2 port and Ethernet AUI. Workst
             <category term="dec"/>
             <category term="cisc"/>
 
-        <updated>2018-11-29T22:48:03+01:00</updated>
+        <updated>2018-11-29T22:49:38+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://olfp.github.io/computer-zoo/media/posts/2/vax-term-detail.jpeg" alt="" />
@@ -320,11 +320,11 @@ In addition there are two serial ports, the SCSI-2 port and Ethernet AUI. Workst
 <div class="bbody" align="">Exactly. The VAX ist the peak of the CISC architecture, and runs happily with VMS. The VAXen family is widespread, from desktop machines to multi-rack monsters. The MicroVAX ist a later model and belongs - even at sight - to the smaler VAXen.While the CPUs of the earlier models - like the calssic VAX 11/780 filled multiple boards, the VAX architecture has been cramed on a chip in a CMOS implementation for the MicroVAXen. The chip called CVAX runs at 10MHz in the 3300 and as 1kB(!) cache attached. The memory is luxuriosly equipped with 4MB - VAX machine code is extremely dense.
 <p><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/2/vax-term.jpeg" alt="MicroVAX 330" width="317" height="592"> </p>
 To be able to realize the CVAX chip with the then contemporary technology, DEC utilized a trick: The CPU implements only the most common instructions of the VAX instruction set - the rest triggers a trap, and is implemented in software. </div>
+<h3 class="bbody">Square, nice and handy.</h3>
 </div>
 <div class="para">
-<h3 class="title"><a name=""></a>Square, nice and handy.</h3>
-<div class="illu" align=""><a href="images/vax-term.jpeg"><img src="images/s-vax-term.jpeg" border="0"></a>
-<div class="capt" lang="en">Even mechanicaly the 3300 stands out from the masses - which coputer looks like a flower stand. The base of the case is nearly square, with castors on the bottom. With about three feet height, you could easily pace a flower pot or a vase atop.
+<div class="illu" align=""><a href="images/vax-term.jpeg"><img src="images/s-vax-term.jpeg" border="0"></a>Even mechanicaly the 3300 stands out from the masses - which coputer looks like a flower stand. The base of the case is nearly square, with castors on the bottom. With about three feet height, you could easily pace a flower pot or a vase atop.
+<div class="capt" lang="en">
 <p> </p>
 But a terminal comes in nicely - my VT-320 gets along well with the VAX. Meanwile I got hold of a keyboard with US layout, what eases up things noticably.
 <p> </p>
