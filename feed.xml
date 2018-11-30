@@ -3,7 +3,7 @@
     <title>olf&#x27;s Computer Zoo</title>
     <link href="https://olfp.github.io/computer-zoo/feed.xml" rel="self" />
     <link href="https://olfp.github.io/computer-zoo" />
-    <updated>2018-11-29T22:49:47+01:00</updated>
+    <updated>2018-11-30T16:20:14+01:00</updated>
     <author>
         <name>Olaf Püschel</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://olfp.github.io/computer-zoo/miscellaneous.html</id>
             <category term="misc"/>
 
-        <updated>2018-11-29T22:00:03+01:00</updated>
+        <updated>2018-11-30T16:11:09+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://olfp.github.io/computer-zoo/media/posts/7/teletype-detail.jpeg" alt="" />
@@ -52,7 +52,7 @@
 <div class="title"><a name=""></a>And in the shelves ...</div>
 <div class="indent"> </div>
 <ul>
-<li class="listitem">A Siemens Newton, identical to the Apple Newton Messagepad 100 except the logo.</li>
+<li class="listitem">A Siemens Newton, identical to the Apple Newton Messagepad 100 except for the logo.</li>
 <li class="listitem">A Amstrad Notepad NC100, Z80, full-size kyboard, 8-line LCD display.</li>
 </ul>
 <div class="hpanel">
@@ -98,11 +98,11 @@
             <category term="apple"/>
             <category term="68k"/>
 
-        <updated>2018-11-29T21:23:49+01:00</updated>
+        <updated>2018-11-30T16:17:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://olfp.github.io/computer-zoo/media/posts/6/mac-fron-detail.jpeg" alt="" />
-                    Apple Mac 128k Hey, there is a handle to throw it away!who throws&hellip;
+                    Apple Mac 128k Hey, there is a handle to throw it away!Who throws&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -114,32 +114,32 @@
 <div class="para">
 <h3 class="title"><a name=""></a>Hey, there is a handle to throw it away!</h3>
 <div class="indent">
-<div class="bbody" align="">who throws away a compact Mac. These small devices have the charme of simplicity, the advantage of being practical and the luxury of the pretty.
+<div class="bbody" align="">Who throws away a compact Mac? These small devices have the charme of simplicity, the advantage of being practical and the luxury of the pretty.
 <p> </p>
-A Compact-Mac - and the 128k was the grandfather of the line and the first mac at all - does not occupy more desk space than a phone directoy - an american of course. This was one of the design targets. And if even this is too much onn day, you just unplug the power cord, grab keyboard and mouse with one hand and the Mac in the other - utilizing the handle - and place it elsewhere.
+A compact Mac - and the 128k was the grandfather of the line and the first Mac at all - does not occupy more desk space than a phone directory - an US one of course. This was one of the design targets. And if even this is too much one day, you just unplug the power cord, grab keyboard and mouse with one hand and the Mac in the other - utilizing the handle - and place it elsewhere.
 <p> </p>
 This Mac has been upgraded over time, so its decorated with a 512k label, but inside are 1024k - one full megabyte.</div>
 </div>
 </div>
 <div class="para">
 <h3 class="title"><a name=""></a>And if you don't place it in a corner?</h3>
-<div class="illu" align=""><a href="images/mac-front.jpeg"><img src="images/s-mac-front.jpeg" border="0"></a>
-<div class="capt" lang="en">The 9" screen (1.bit per pixel, so black or white) with its 512x348 pixel is just sufficient to display te menu bar and one "big" window, in which you can work. But you can enjoy different fonts and can paint and draw.
+<div class="illu" align=""><a href="images/mac-front.jpeg"><img src="images/s-mac-front.jpeg" border="0"></a>The 9" screen (1.bit per pixel, so black or white) with its 512x348 pixels is just sufficient to display te menu bar and one "big" window, in which you can work. But you can enjoy different fonts plus you can paint and draw.
+<div class="capt" lang="en">
 <p> </p>
-<img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/6/mac-front.jpeg" alt="Mac 128k" width="785" height="523">My Mac like most running with MacOS 6.7. That fits on one 800k disk together with MacWrite and MacDraw, and with a full Megabyte RAM working is quit comfortable. Data is stored on the second - external - floppy disk drive. Such luxury was untinkable when the system was shipped. Then it had one internal 400k disk (single sided, 3.5") and 128(!) kilobyte(!) memory. That way you spend one thiry of your time swapping disk. The previous owner changed the floppy drive, bought a second one and upgraded the ROM for supporting the double sided floppy disk drives and wrestled with the soldering iron to add more RAM.</div>
+<img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/6/mac-front.jpeg" alt="Mac 128k" width="785" height="523">My Mac likes most running with MacOS 6.7. That fits on one 800k disk together with MacWrite and MacDraw, and with a full Megabyte RAM working is quite comfortable. Data is stored on the second - external - floppy disk drive. Such luxury was untinkable when the first Mac system was shipped. Then it had one internal 400k disk (single sided, 3.5") and 128(!) kilobyte(!) memory. That way you spend one third of your time swapping disk. The previous owner changed the floppy drive, bought a second one and upgraded the ROM for supporting the double sided floppy disk drives and wrestled with the soldering iron to add more RAM.</div>
 </div>
 <div class="indent"> </div>
 </div>
 <div class="para">
 <h3 class="title"><a name=""></a>So whats so great about it?</h3>
 <div class="indent">
-<div class="bbody" align="">The simple an intuitve use of hardware as well as software. One program run at a time, the mouse has one button, the computer only one switch - not much you can get wrong.</div>
+<div class="bbody" align="">The simple an intuitve use of hardware as well as software. One program runs at a time, the mouse has one button, the computer only one switch - not much you can get wrong.</div>
 </div>
 </div>
 <div class="para">
 <h3 class="title"><a name=""></a>And the rest of the world...</h3>
 <div class="indent">
-<div class="bbody" align="">... should have a serial interface. With these the MAc did everything. Besides ports for mouse, keyboard and external disk drive the Mac sports two serial interfaces in RS-422 standard, to which you can connect RS-232 devices too.
+<div class="bbody" align="">... should have a serial interface. With these the Mac did all. Besides ports for mouse, keyboard and external disk drive the Mac sports two serial interfaces in RS-422 standard, to which you can connect RS-232 devices too.
 <p> </p>
 With them it does everything. Printing, modem, network ... and there's no other way because the system has no expansion slots. For the uninitiated user its even impossible to open the case, you need an "MacOpener" to do this. That leads to strange constructs like the HD20, a hard disk which gets plugged to the external drive port instead of the floppy. Performance is like you'd expect :-)</div>
 </div>
@@ -154,12 +154,12 @@ With them it does everything. Printing, modem, network ... and there's no other 
 <div class="para">
 <h2 class="title"><a name=""></a>The ball rolls!</h2>
 <div class="indent">
-<div class="bbody" align="">The full-size tarckball refreshingly differs from the moderen touchpads and rubber gimmicks and offers a superb mouse surogate. I had extra acquired a mouse, but never plugged it in. Mounting the trackpad is possible because of the relative height of the device, at last the whole ball has to fit in - one half inn the top, the other in the bottom shell. Above and below the two buttons are arranged, both with the same functions as the Mac mouses with a single button. This way you can use the one which fits your personal handling best. The mouse pointer moves about a LCD with 640x480 pixels, able to display four levels of gray with a backlight. The keyboard is nice to type on and has - thank to the thickness of the case - an acceptable kay lift.</div>
+<div class="bbody" align="">The full-size tarckball refreshingly differs from the moderen touchpads and rubber gimmicks and offers a superb mouse surogate. I had  acquired an extra mouse, but never plugged it in. Mounting the trackpad is possible because of the relative height of the device, at least the whole ball has to fit in - one half in the top, the other in the bottom shell. Above and below the two buttons are arranged, both with the same functions as the Mac mouses with a single button. This way you can use the one which fits your personal handling best. The mouse pointer moves about a LCD with 640x480 pixels, able to display four levels of gray with a backlight. The keyboard is nice to type on and has - thank to the thickness of the case - an acceptable key lift.</div>
 </div>
 </div>
 <div class="para">
 <h3 class="title"><a name=""></a>Plugging Games</h3>
-<div class="illu" align="left"><a href="images/pb180-if.jpeg"><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/6/pb180-if.jpeg" alt="Powerbook connectors" width="900" height="358"><img src="images/s-pb180-if.jpeg" border="0"></a>In extensibility the Powerbook shows its a real Apple. Difficult to exotic. There is an internal slot for a modem, which I own, but somehow it's not working. Otherwise the are the usual suspects: ADB for mouse and keyboard, an exotic port for an external display and two serial ports for printer and modem. No infrared, no PCMCIA and regretably no Ethernet. But there is a SCSI interface, with an strange and space saving HDI format. For data exchange Apple threw in a floppy disk drive - of course with motorised eject a its suits an Apple.</div>
+<div class="illu" align="left"><a href="images/pb180-if.jpeg"><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/6/pb180-if.jpeg" alt="Powerbook connectors" width="900" height="358"><img src="images/s-pb180-if.jpeg" border="0"></a>In extensibility the Powerbook shows its a real Apple. Difficult to exotic. There is an internal slot for a modem, which I own, but somehow it's not working. Otherwise the are the usual suspects: ADB for mouse and keyboard, an exotic port for an external display and two serial ports for printer and modem. No infrared, no PCMCIA and regretably no Ethernet. But there is a SCSI interface, with an strange and space saving HDI format. For data exchange Apple threw in a floppy disk drive - of course with motorised eject as it suits an Apple.</div>
 <div class="indent"> </div>
 </div>
 <div class="para">
@@ -184,7 +184,7 @@ With them it does everything. Printing, modem, network ... and there's no other 
             <category term="dec"/>
             <category term="alpha"/>
 
-        <updated>2018-11-29T22:11:40+01:00</updated>
+        <updated>2018-11-30T16:18:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://olfp.github.io/computer-zoo/media/posts/5/multia-detail.jpeg" alt="" />
@@ -208,7 +208,7 @@ With them it does everything. Printing, modem, network ... and there's no other 
 <div class="indent">
 <div class="bbody" align=""><img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/5/multia.jpeg" alt="DEC Multia" width="862" height="623">Right. And this is the smallest and slowest version. There are machines in the same enclosure with 266 MHz processors and larger disks (you can mount a frame for a 3.5" disk instead of the PCI slot)
 <p> </p>
-Unfortunately the machine basically flopped. Targeted as a client system with Windows-NT (yes Windows once ran on Alphas as wekk as on MIPS and PowerPC), the concept was refused by the market. The corresponding Pentium line didn't gather a larger following.</div>
+Unfortunately the machine basically flopped. Targeted as a client system with Windows-NT (yes Windows once ran on Alphas as well as on MIPS and PowerPC), the concept was refused by the market. The corresponding Pentium line didn't gather a larger following either.</div>
 </div>
 </div>
 <div class="para">
@@ -237,7 +237,7 @@ Unfortunately the machine basically flopped. Targeted as a client system with Wi
             <category term="mips"/>
             <category term="dec"/>
 
-        <updated>2018-11-29T22:07:19+01:00</updated>
+        <updated>2018-11-30T16:19:35+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://olfp.github.io/computer-zoo/media/posts/3/decstation-detail.jpeg" alt="" />
