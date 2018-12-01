@@ -3,7 +3,7 @@
     <title>olf&#x27;s Computer Zoo</title>
     <link href="https://olfp.github.io/computer-zoo/feed.xml" rel="self" />
     <link href="https://olfp.github.io/computer-zoo" />
-    <updated>2018-11-30T16:40:01+01:00</updated>
+    <updated>2018-12-01T17:25:47+01:00</updated>
     <author>
         <name>Olaf Püschel</name>
     </author>
@@ -98,7 +98,7 @@
             <category term="apple"/>
             <category term="68k"/>
 
-        <updated>2018-11-30T16:17:27+01:00</updated>
+        <updated>2018-12-01T17:24:33+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://olfp.github.io/computer-zoo/media/posts/6/mac-fron-detail.jpeg" alt="" />
@@ -123,7 +123,7 @@ This Mac has been upgraded over time, so its decorated with a 512k label, but in
 </div>
 <div class="para">
 <h3 class="title"><a name=""></a>And if you don't place it in a corner?</h3>
-<div class="illu" align=""><a href="images/mac-front.jpeg"><img src="images/s-mac-front.jpeg" border="0"></a>The 9" screen (1.bit per pixel, so black or white) with its 512x348 pixels is just sufficient to display te menu bar and one "big" window, in which you can work. But you can enjoy different fonts plus you can paint and draw.
+<div class="illu" align="">The 9" screen (1.bit per pixel, so black or white) with its 512x348 pixels is just sufficient to display te menu bar and one "big" window, in which you can work. But you can enjoy different fonts plus you can paint and draw.
 <div class="capt" lang="en">
 <p> </p>
 <img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/6/mac-front.jpeg" alt="Mac 128k" width="785" height="523">My Mac likes most running with MacOS 6.7. That fits on one 800k disk together with MacWrite and MacDraw, and with a full Megabyte RAM working is quite comfortable. Data is stored on the second - external - floppy disk drive. Such luxury was untinkable when the first Mac system was shipped. Then it had one internal 400k disk (single sided, 3.5") and 128(!) kilobyte(!) memory. That way you spend one third of your time swapping disk. The previous owner changed the floppy drive, bought a second one and upgraded the ROM for supporting the double sided floppy disk drives and wrestled with the soldering iron to add more RAM.</div>
@@ -237,7 +237,7 @@ Unfortunately the machine basically flopped. Targeted as a client system with Wi
             <category term="mips"/>
             <category term="dec"/>
 
-        <updated>2018-11-30T16:19:35+01:00</updated>
+        <updated>2018-12-01T17:25:23+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://olfp.github.io/computer-zoo/media/posts/3/decstation-detail.jpeg" alt="" />
@@ -255,7 +255,6 @@ Unfortunately the machine basically flopped. Targeted as a client system with Wi
 </div>
 <div class="para">
 <h2 class="title">The little sister - DECstation 5000/120</h2>
-<div class="illu" align=""><a href="images/decstation.jpeg"><img src="images/s-decstation.jpeg" border="0"></a></div>
 <div class="indent">
 <div class="bbody" align="">My DECstation 5000/120 is from the middle of the line. In means of time - no R2000 anymore and not yet a R4000 - as well as in means of power - there is the personal DECstation and the 200 line models. With the R3000 processor running at 20MHz and supported by a R3010 numerical processor the machine delivers abount 30 MIPS. This is much compared to the Sun-3 line, about as much as the SPARCstation-1 and not much compared with modern workstations with their several hundred MIPS.
 <p> <img class="post__image--right" src="https://olfp.github.io/computer-zoo/media/posts/3/decstation.jpeg" alt="DECstation 5000/120" width="900" height="640"></p>
