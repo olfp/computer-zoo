@@ -3,7 +3,7 @@
     <title>olf&#x27;s Computer Zoo</title>
     <link href="https://olfp.github.io/computer-zoo/feed.xml" rel="self" />
     <link href="https://olfp.github.io/computer-zoo" />
-    <updated>2018-12-01T17:41:52+01:00</updated>
+    <updated>2018-12-01T17:44:09+01:00</updated>
     <author>
         <name>Olaf Püschel</name>
     </author>
@@ -302,7 +302,7 @@ In addition there are two serial ports, the SCSI-2 port and Ethernet AUI. Workst
             <category term="dec"/>
             <category term="cisc"/>
 
-        <updated>2018-11-30T16:25:11+01:00</updated>
+        <updated>2018-12-01T17:44:00+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://olfp.github.io/computer-zoo/media/posts/2/vax-term-detail.jpeg" alt="" />
